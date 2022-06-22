@@ -28,7 +28,7 @@
 - CSS custom properties
 - Flexbox
 - hr
-- Mhoven
+- Hover
 
 
 
